@@ -1,0 +1,6 @@
+PING www.google.com (142.251.42.36) 56(84) bytes of data.
+64 bytes from bom12s20-in-f4.1e100.net (142.251.42.36): icmp_seq=1 ttl=52 time=364 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 364.495/364.495/364.495/0.000 ms
